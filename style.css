@@ -4,6 +4,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
+    -webkit-user-select: none;
+    user-select: none;
 }
 body{
     background: #081b29;
